@@ -1,0 +1,27 @@
+Part:
+
+- Read in data 
+  GC
+  LC-RID
+  LC-UV, Agilent 
+         Dionex
+  LC-PDA, Agilent   
+          Dionex
+  IC, Dionex
+      Metrohm
+      
+ - Plot Data
+      Zoom
+      
+- Find Peaks
+    Manuel - Graphic
+    Automated
+    
+ - Integrate Peaks
+    Baseline
+    Quant-> Ver2
+    
+-GUI 
+
+    
+      
